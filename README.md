@@ -8,4 +8,4 @@ In the app:
 - Press OK
 
 In Minecraft:
-- /summon text_display ~ ~ ~ <Press CTRL-V here>
+- /summon text_display ~ ~ ~ Press CTRL-V here
