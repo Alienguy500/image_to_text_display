@@ -1,6 +1,8 @@
 # image_to_text_display
 Convert images into Minecraft text display entities
 
+Maximum width = 22
+
 How to use:
 
 In the app:
